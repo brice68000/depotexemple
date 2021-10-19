@@ -1,4 +1,4 @@
-Langange utilisé:
+Langage utilisé:
 
-HTML 5
-CSS 3
+    -HTML 5
+    -CSS 3
